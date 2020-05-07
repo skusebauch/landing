@@ -1,0 +1,17 @@
+.btn-yours {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #7dde92;
+  box-shadow: 2px 2px 12px 1px rgba(0, 0, 0, 0.44);
+  padding: 15px 50px;
+  border-radius: 5px;
+  transition-duration: 0.3s;
+  transition-property: box-shadow, transform;
+}
+
+.btn-yours:hover {
+  transform: scale(1.1);
+  box-shadow: 2px 2px 17px 1px #7dde92;
+}
+
