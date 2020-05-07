@@ -6,6 +6,11 @@
   text-align: center;
 }
 
+.footer p {
+  color: white;
+  opacity: .7;
+}
+
 .list-inline {
   list-style: none;
   padding: 0;
